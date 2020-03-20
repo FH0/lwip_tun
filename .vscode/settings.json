@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "if_tun.h": "c",
+        "sockios.h": "c",
+        "signal.h": "c",
+        "tcp.h": "c"
+    }
+}
