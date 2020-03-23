@@ -33,7 +33,7 @@
 // enable tun2socks logic
 #define TUN2SOCKS 1
 
-#define NO_SYS 1
+#define NO_SYS 0
 #define LWIP_TIMERS 1
 
 #define IP_DEFAULT_TTL 64
@@ -56,7 +56,8 @@
 #define LWIP_HAVE_LOOPIF 1
 #define LWIP_HAVE_SLIPIF 0
 #define LWIP_NETCONN 0
-#define LWIP_SOCKET 0
+#define LWIP_SOCKET 1
+#define LWIP_COMPAT_SOCKETS 0
 #define PPP_SUPPORT 0
 #define LWIP_IPV6 1
 #define LWIP_IPV6_MLD 0

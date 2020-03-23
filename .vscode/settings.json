@@ -4,6 +4,12 @@
         "if_tun.h": "c",
         "sockios.h": "c",
         "signal.h": "c",
-        "tcp.h": "c"
+        "tcp.h": "c",
+        "tcpip.h": "c",
+        "additional.h": "c",
+        "inet.h": "c",
+        "pthread.h": "c",
+        "features.h": "c",
+        "errno.h": "c"
     }
 }
